@@ -10,12 +10,12 @@ sequelize db:seed:all // fill the data to the databse (not compulsory you can cr
 npm install (to install the packages) \
 create a config folder and inside that create two files with name \
 config.json => copy the contents from config.example.json file \
-env.json => copy the contents from env.example.json file \
+env.json => copy the contents from env.example.json file\
 npm run dev // to run the application in development mode\
 
 For running the client\
-cd to the client folder \
-run npm install \
+cd to the client folder\
+run npm install\
 npm start // to run the application \
 
 ![](images/image1.png)
