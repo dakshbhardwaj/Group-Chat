@@ -11,10 +11,9 @@ npm install (to install the packages) \
 create a config folder and inside that create two files with name \
 config.json => copy the contents from config.example.json file \
 env.json => copy the contents from env.example.json file \
+npm run dev // to run the application in development mode\
 
-npm run dev // to run the application in development mode \
-
-For running the client \
+For running the client\
 cd to the client folder \
 run npm install \
 npm start // to run the application \
